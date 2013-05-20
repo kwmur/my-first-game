@@ -15,8 +15,8 @@
 
 # ignore directory
 bin/
+libs/
 obj/
-source/GameProject/libs/
 test/
 tool/
 

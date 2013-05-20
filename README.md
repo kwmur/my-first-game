@@ -13,6 +13,9 @@ my first game develop.
 * documents  
 プロジェクトに関するドキュメントを置いています。
 
+* libs  
+外部ライブラリの置き場所です。
+
 * manual  
 ゲームのマニュアルです。
 
