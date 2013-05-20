@@ -14,9 +14,9 @@
 *.user
 
 # ignore directory
-bin/
-libs/
-obj/
-test/
-tool/
+/bin/
+/libs/
+/obj/
+/test/
+/tool/
 
