@@ -1,13 +1,17 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# ignore backup files
+*~
+.*~
+\#*\#
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# ignore files
+*.ncb
+*.suo
+*.user
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# ignore directory
+bin/
+obj/
+source/GameProject/libs/
+test/
+tool/
+
